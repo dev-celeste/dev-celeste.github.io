@@ -1,26 +1,29 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
-
+  siteTitle: 'Maria Alcantara | Software Developer',
+  siteDescription:
+    'Maria Alcantara holds a Bachelors degree from Rutgers University',
+  siteKeywords:
+    'Maria Alcantara, Maria, Alcantara, mariaalcantara, software developer, software engineer, web developer, python developer, Rutgers University, ',
+  siteUrl: 'https://dev-celeste.github.io/',
+  siteLanguage: 'en_US',
+  googleAnalyticsID: 'UA-45666519-2',
+  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  name: 'Maria Alcantara',
+  location: 'New Jersey',
+  email: 'devcelestecodes@gmail.com',
+  github: 'https://github.com/dev-celeste',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://github.com/dev-celeste',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/maria-alcantara-864790142/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/dev.celeste',
     },
   ],
 
@@ -34,7 +37,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {
@@ -43,13 +46,15 @@ module.exports = {
     },
   ],
 
+  navHeight: 100,
+
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    green: '#FCB1D3',
+    navy: '#A6989E',
+    darkNavy: '#524F50',
   },
 
-  srConfig: (delay = 200, viewFactor = 0.25) => ({
+  srConfig: (delay = 200) => ({
     origin: 'bottom',
     distance: '20px',
     duration: 500,
@@ -61,7 +66,7 @@ module.exports = {
     mobile: true,
     reset: false,
     useDelay: 'always',
-    viewFactor,
+    viewFactor: 0.25,
     viewOffset: { top: 0, right: 0, bottom: 0, left: 0 },
   }),
 };
