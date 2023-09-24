@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dev-celeste.github.io/sitemap-index.xml
+Host: https://dev-celeste.github.io
