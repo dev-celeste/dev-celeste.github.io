@@ -2,10 +2,10 @@
   "name": "v2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Usha Vudatha <ushavudatha@gmail.com>",
+  "author": "Maria <devcelestecodes@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ushavudatha/ushavudatha.github.io"
+    "url": "https://github.com/dev-celeste/dev-celeste.github.io"
   },
   "keywords": [
     "gatsby"
