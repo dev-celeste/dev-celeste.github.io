@@ -17,8 +17,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ushavudatha',
-        short_name: 'ushavudatha',
+        name: 'dev-celeste',
+        short_name: 'dev-celeste',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

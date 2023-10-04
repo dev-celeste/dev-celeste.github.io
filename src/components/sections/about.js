@@ -76,7 +76,6 @@ const StyledAvatarLink = styled.a`
   margin-left: -20px;
   &:hover,
   &:focus {
-    background: transparent;
     &:after {
       top: 15px;
       left: 15px;
