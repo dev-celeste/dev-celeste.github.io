@@ -35,7 +35,7 @@ const StyledTitle = styled.h2`
   ${media.phone`font-size: 40px;`};
 `;
 const StyledSubtitle = styled.h3`
-  font-size: 80px;
+  font-size: 70px;
   line-height: 1.1;
   color: ${colors.slate};
   ${media.desktop`font-size: 70px;`};
@@ -44,7 +44,7 @@ const StyledSubtitle = styled.h3`
   ${media.phone`font-size: 40px;`};
 `;
 const StyledDescription = styled.div`
-  margin-top: 25px;
+  margin-top: 5px;
   width: 50%;
   max-width: 500px;
   a {
@@ -53,7 +53,7 @@ const StyledDescription = styled.div`
 `;
 const StyledEmailLink = styled.a`
   ${mixins.bigButton};
-  margin-top: 25px;
+  margin-top: -5px;
 `;
 
 const Hero = ({ data }) => {
