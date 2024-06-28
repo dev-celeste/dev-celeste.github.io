@@ -2,7 +2,7 @@
 date: '2023-11-13'
 title: 'Java Developer'
 company: 'FDM Group'
-range: 'November 2023 - Present'
+range: 'November 2023 - March 2024'
 url: 'https://www.fdmgroup.com/'
 ---
 
