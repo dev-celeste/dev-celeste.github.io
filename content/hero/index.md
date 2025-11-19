@@ -5,10 +5,10 @@ subtitle: 'I love being creative with code!'
 buttonText: 'Hire Me'
 ---
 
-👩‍🎓 I am a Masters in Software Engineering student at Penn State University (December '25), learning to develop large, robust, and complex software systems.
+💻 I am a Software Engineer at Prudential Financial, a leading insurance and investment firm as well as a fortune 500 company (ranked 81st). My work here has shaped me into a competitive back end developer.
 
-💻 I also completed [Dev10's Java Developer Bootcamp](https://www.credly.com/badges/40b4b79c-cfac-4229-bf2f-82b6d473e562/public_url) (July '23) and FDM Group's Java Developer Track (February 2024), equiping me with in demand full-stack development skills.
+👩‍🎓 I am also a Masters in Software Engineering student at Penn State University, learning to develop large, robust, and complex software systems.
 
-👩‍💻 Currently, I work in fintech on a backend team at Prudential Financial (Fortune 500, ranked 81st), where I build reliable code to reinforce hydration processes.
+🍎 On my free time, I am learning iOS development with the goal to launch my first app on the apple appstore .
 
 Let's code the future together!
