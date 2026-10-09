@@ -6,10 +6,10 @@ range: 'March 2024 - Present'
 url: 'https://www.prudential.com/'
 ---
 
-- Developed transformers used in hydration processes to filter clients' annuity contracts and life policy information into databases.
+- Developed a fully agentic system capable of consuming technical features, creating jira stories and completing them.
 
-- Created and maintained internal libraries for Artifactory, enhancing code reuse and efficiency for internal teams.
+- Created automated systems for legacy manual intervention services.
 
-- Participated in daily standup meetings, contributing to agile project management and team collaboration.
+- Designed and implemented webhook-based distributed workflows, ensuring reliable event delivery, idempotency, and fault toleranc.
 
-- Utilized Jira, Bitbucket, and Confluence to complete tickets during sprints and create valuable documentation.
+- Created a Confluence bot capable of helping non-technical folks create and maintain technical documentation.

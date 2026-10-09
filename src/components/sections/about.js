@@ -105,8 +105,8 @@ const StyledAvatarLink = styled.a`
   }
   &:after {
     border: 2px solid ${colors.green};
-    top: 10px;
-    left: 10px;
+    top: 20px;
+    left: 20px;
     z-index: -1;
   }
 `;
